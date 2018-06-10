@@ -5,7 +5,8 @@ function forLoop(array) {
     } else {
       array.push(“I am ${i} strange loop.”)
     }
-
+    
+}
 
 
 for (let i = 0; i < t; i++) {
